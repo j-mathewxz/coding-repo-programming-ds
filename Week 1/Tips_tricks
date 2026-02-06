@@ -1,3 +1,5 @@
+TIP and tricks.
+
 so to push to git save files
 git add.
 git commit -m "Describe what you changed"

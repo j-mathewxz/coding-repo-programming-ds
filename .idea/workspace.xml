@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e827c75e-eb5f-4b3f-b58b-9161849d93ee" name="Changes" comment="Updated code repo for week 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e827c75e-eb5f-4b3f-b58b-9161849d93ee" name="Changes" comment="Updated code repo for week 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769765573839</updated>
       <workItem from="1769765574902" duration="1003000" />
-      <workItem from="1770369711322" duration="4657000" />
+      <workItem from="1770369711322" duration="5014000" />
     </task>
     <task id="LOCAL-00001" summary="Updated code repo for week 1">
       <option name="closed" value="true" />
