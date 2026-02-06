@@ -63,6 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769765573839</updated>
       <workItem from="1769765574902" duration="1003000" />
-      <workItem from="1770369711322" duration="3781000" />
+      <workItem from="1770369711322" duration="4657000" />
     </task>
     <task id="LOCAL-00001" summary="Updated code repo for week 1">
       <option name="closed" value="true" />
