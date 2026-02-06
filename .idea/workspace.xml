@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e827c75e-eb5f-4b3f-b58b-9161849d93ee" name="Changes" comment="Updated code repo for week 1">
-      <change afterPath="$PROJECT_DIR$/Week 1/code_quanlity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Week2_partB_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/week2_partA_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Coding repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coding repo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDS_Week1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/PDS_Week1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushing to git" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/pushing to git" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "j-mathewxz"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/j-mathewxz/coding-repo-programming-ds.git",
+    "accountId": "b9c4465d-5b8c-4a1d-98f2-ab68e67ca8f3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="38yIqPtix8BF2ejZ2azYFHJnVQW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,11 +53,15 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.PDS_Week1.executor": "Run",
+    "Python.Week2_partB_numpy.executor": "Run",
     "Python.code_quanlity.executor": "Run",
+    "Python.week2_partA_numpy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/joshmathew/PycharmProjects/coding-repo-programming-ds/Week 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,11 +70,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
-        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -69,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769765573839</updated>
       <workItem from="1769765574902" duration="1003000" />
+      <workItem from="1770369711322" duration="3010000" />
     </task>
     <task id="LOCAL-00001" summary="Updated code repo for week 1">
       <option name="closed" value="true" />
@@ -100,7 +123,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated code repo for week 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_repo_programming_ds$Week2_partB_numpy.coverage" NAME="Week2_partB_numpy Coverage Results" MODIFIED="1770374212873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/Coding_repo$code_quanlity.coverage" NAME="code_quanlity Coverage Results" MODIFIED="1769766529223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/coding_repo_programming_ds$week2_partA_numpy.coverage" NAME="week2_partA_numpy Coverage Results" MODIFIED="1770373498785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/Coding_repo$PDS_Week1.coverage" NAME="PDS_Week1 Coverage Results" MODIFIED="1769765623387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
