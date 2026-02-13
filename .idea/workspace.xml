@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e827c75e-eb5f-4b3f-b58b-9161849d93ee" name="Changes" comment="Updated code repo for week 1" />
+    <list default="true" id="e827c75e-eb5f-4b3f-b58b-9161849d93ee" name="Changes" comment="Updated code repo for week 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "j-mathewxz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;j-mathewxz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/j-mathewxz/coding-repo-programming-ds.git",
+    "url": "git@github.com:j-mathewxz/coding-repo-programming-ds.git",
     "accountId": "b9c4465d-5b8c-4a1d-98f2-ab68e67ca8f3"
   }
 }]]></component>
@@ -54,7 +56,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/joshmathew/PycharmProjects/coding-repo-programming-ds/Week 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,6 +66,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1769765573839</updated>
       <workItem from="1769765574902" duration="1003000" />
-      <workItem from="1770369711322" duration="5014000" />
+      <workItem from="1770369711322" duration="6727000" />
+      <workItem from="1770973104684" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="Updated code repo for week 1">
       <option name="closed" value="true" />
